@@ -1,1 +1,1 @@
-This folder contains Lab 3.
+# lab-3-user-input
