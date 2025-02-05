@@ -1,1 +1,1 @@
-This folder contains Lab 2. 
+# data-types-variables
