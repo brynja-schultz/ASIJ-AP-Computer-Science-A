@@ -7,28 +7,43 @@ Completing these projects during high school gave me early exposure to structure
 **Tech Stack:** Java (JDK) · Text-based resources
 
 ## Project Highlights
+lab-1-printing-and-debugging-brynja-schultz — Java programming exercises.
 
-| Project                                         | Key Skills                                                  | Notable Features                                                                                                                                  |
-| ----------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `lab-1-printing-and-debugging-brynja-schultz`   | Java programming exercises                                  | Java programming exercises                                                                                                                        |
-| `lab-10-deal-brynja-schultz`                    | Java programming exercises                                  | Java programming exercises                                                                                                                        |
-| `lab-11-ridethewave-brynja-schultz`             | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O, Stack data structure                                                                            |
-| `lab-12-imagemanipulation-brynja-schultz`       | Exception handling, File I/O, GUI programming...            | Exception handling, File I/O, GUI programming, Java Swing, Stack data structure                                                                   |
-| `lab-13-vigenere-brynja-schultz`                | Java programming exercises                                  | Java programming exercises                                                                                                                        |
-| `lab-14-data-brynja-schultz`                    | Array manipulation and iteration                            | Array manipulation and iteration                                                                                                                  |
-| `lab-15-sakura-forecasting-brynja-schultz`      | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O                                                                                                  |
-| `lab-16-ants-vs-somebees-brynja-schultz`        | Abstract classes, Array manipulation, Exception handling... | Abstract classes, Array manipulation, Exception handling, File I/O, Graph algorithms, GUI programming, Inheritance, Java Swing, Search algorithms |
-| `lab-17-digitsort-brynja-schultz`               | Sorting algorithms                                          | Sorting algorithms                                                                                                                                |
-| `lab-17-diy-sort-brynja-schultz`                | Array manipulation, Sorting algorithms                      | Array manipulation, Sorting algorithms                                                                                                            |
-| `lab-17-sorting-efficiently-brynja-schultz`     | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O, Sorting algorithms                                                                              |
-| `lab-2-data-types-and-variables-brynja-schultz` | Java programming exercises                                  | Java programming exercises                                                                                                                        |
-| `lab-3-user-input-brynja-schultz`               | Java programming exercises                                  | Java programming exercises                                                                                                                        |
-| `lab-4a-existing-classes-brynja-schultz`        | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O, Graph algorithms, Interface implementation, Java Swing, Queue, Stack                            |
-| `lab-4b-implementing-classes-brynja-schultz`    | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O, Graph algorithms, Interface implementation, Java Swing, Stack                                   |
-| `lab-6-random-walk-brynja-schultz`              | Array manipulation, Exception handling, File I/O...         | Array manipulation, Exception handling, File I/O, Graph algorithms, Interface implementation, Java Swing, Queue, Stack                            |
-| `lab-7-decisions-brynja-schultz`                | Graph algorithms, Java Swing GUI                            | Graph algorithms, Java Swing GUI                                                                                                                  |
-| `lab-8-magpie-brynja-schultz`                   | Array manipulation, Search algorithms                       | Array manipulation, Search algorithms                                                                                                             |
-| `lab-9-dna-brynja-schultz`                      | Java programming exercises                                  | Java programming exercises                                                                                                                        |
+lab-10-deal-brynja-schultz — Java programming exercises.
+
+lab-11-ridethewave-brynja-schultz — Array manipulation and iteration, exception handling, file I/O operations, stack data structure.
+
+lab-12-imagemanipulation-brynja-schultz — Exception handling, file I/O operations, GUI programming, Java Swing, stack data structure.
+
+lab-13-vigenere-brynja-schultz — Java programming exercises.
+
+lab-14-data-brynja-schultz — Array manipulation and iteration.
+
+lab-15-sakura-forecasting-brynja-schultz — Array manipulation and iteration, exception handling, file I/O operations.
+
+lab-16-ants-vs-somebees-brynja-schultz — Abstract classes and interfaces, array manipulation, exception handling, file I/O, graph algorithms, GUI programming, inheritance/polymorphism, Java Swing, search algorithms.
+
+lab-17-digitsort-brynja-schultz — Sorting algorithms.
+
+lab-17-diy-sort-brynja-schultz — Array manipulation and iteration, sorting algorithms.
+
+lab-17-sorting-efficiently-brynja-schultz — Array manipulation, exception handling, file I/O, sorting algorithms.
+
+lab-2-data-types-and-variables-brynja-schultz — Java programming exercises.
+
+lab-3-user-input-brynja-schultz — Java programming exercises.
+
+lab-4a-existing-classes-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, queue data structure, stack data structure.
+
+lab-4b-implementing-classes-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, stack data structure.
+
+lab-6-random-walk-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, queue data structure, stack data structure.
+
+lab-7-decisions-brynja-schultz — Graph algorithms, Java Swing GUI.
+
+lab-8-magpie-brynja-schultz — Array manipulation, search algorithms.
+
+lab-9-dna-brynja-schultz — Java programming exercises.
 
 ## Skills Developed
 
