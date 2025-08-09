@@ -1,76 +1,77 @@
-# ASIJ — AP Computer Science A (Java) Projects
+# AP Computer Science A (Java)
 
-This repository contains programming assignments and projects I completed while attending the **American School in Japan** in high school as part of the AP Computer Science A course.
-These exercises cover a range of foundational and intermediate Java programming concepts, with a focus on object-oriented design, algorithms, and problem-solving.
-Completing these projects during high school gave me early exposure to structured software development and reinforced my interest in pursuing computer science at a higher academic level.
+*American School in Japan – High School*
 
-**Tech Stack:** Java (JDK) · Text-based resources
+## Course Context
+
+This repository contains my programming assignments from **AP Computer Science A** at the American School in Japan, **2019–2020 academic year**.
+The course introduced object-oriented programming in Java, fundamental algorithms, and problem-solving strategies aligned with the AP College Board curriculum.
+It served as my first formal programming course and laid the foundation for advanced university-level computer science classes in algorithms, data structures, and software engineering.
+
+**Tech Stack:** Java (JDK) · Java Swing · Standard Java Libraries
+
+---
 
 ## Project Highlights
-lab-1-printing-and-debugging-brynja-schultz — Java programming exercises.
 
-lab-10-deal-brynja-schultz — Java programming exercises.
+* **Lab 1 — Printing and Debugging** — Basic output and debugging techniques.
+* **Lab 2 — Data Types and Variables** — Working with primitive types and simple operations.
+* **Lab 3 — User Input** — Reading and processing console input.
+* **Lab 4a — Using Existing Classes** — Applying Java’s built-in classes to solve problems.
+* **Lab 4b — Implementing Classes** — Creating custom classes and methods.
+* **Lab 6 — Random Walk Simulation** — Loops and conditional logic in simulation.
+* **Lab 7 — Decision Structures** — Applying conditional branching in programs.
+* **Lab 8 — Magpie Chatbot** — Simple chatbot using string manipulation.
+* **Lab 9 — DNA Analysis** — Parsing and analyzing nucleotide sequences.
+* **Lab 10 — Deal Simulation** — Modeling game logic and probability.
+* **Lab 11 — Ride the Wave** — Arrays and iterative problem solving.
+* **Lab 12 — Image Manipulation** — Basic graphics handling with Java Swing.
+* **Lab 13 — Vigenère Cipher** — Implementing classic encryption algorithms.
+* **Lab 14 — Data Analysis** — Processing and summarizing datasets.
+* **Lab 15 — Sakura Forecasting** — Data analysis applied to forecasting scenarios.
+* **Lab 16 — Ants vs. SomeBees** — Game simulation with OOP and inheritance.
+* **Lab 17 — Digit Sort** — Sorting algorithms implementation.
+* **Lab 17 — DIY Sort** — Custom sort function design.
+* **Lab 17 — Sorting Efficiently** — Comparative performance of sorting methods.
 
-lab-11-ridethewave-brynja-schultz — Array manipulation and iteration, exception handling, file I/O operations, stack data structure.
-
-lab-12-imagemanipulation-brynja-schultz — Exception handling, file I/O operations, GUI programming, Java Swing, stack data structure.
-
-lab-13-vigenere-brynja-schultz — Java programming exercises.
-
-lab-14-data-brynja-schultz — Array manipulation and iteration.
-
-lab-15-sakura-forecasting-brynja-schultz — Array manipulation and iteration, exception handling, file I/O operations.
-
-lab-16-ants-vs-somebees-brynja-schultz — Abstract classes and interfaces, array manipulation, exception handling, file I/O, graph algorithms, GUI programming, inheritance/polymorphism, Java Swing, search algorithms.
-
-lab-17-digitsort-brynja-schultz — Sorting algorithms.
-
-lab-17-diy-sort-brynja-schultz — Array manipulation and iteration, sorting algorithms.
-
-lab-17-sorting-efficiently-brynja-schultz — Array manipulation, exception handling, file I/O, sorting algorithms.
-
-lab-2-data-types-and-variables-brynja-schultz — Java programming exercises.
-
-lab-3-user-input-brynja-schultz — Java programming exercises.
-
-lab-4a-existing-classes-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, queue data structure, stack data structure.
-
-lab-4b-implementing-classes-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, stack data structure.
-
-lab-6-random-walk-brynja-schultz — Array manipulation, exception handling, file I/O, graph algorithms, interface implementation, Java Swing, queue data structure, stack data structure.
-
-lab-7-decisions-brynja-schultz — Graph algorithms, Java Swing GUI.
-
-lab-8-magpie-brynja-schultz — Array manipulation, search algorithms.
-
-lab-9-dna-brynja-schultz — Java programming exercises.
+---
 
 ## Skills Developed
 
-Through these projects, I gained:
+* **Java syntax & OOP fundamentals** — classes, objects, inheritance, and encapsulation.
+* **Algorithmic thinking** — sorting, searching, and data analysis.
+* **Data structures** — arrays, stacks, queues, and collections.
+* **Debugging & testing** — identifying and fixing logical and runtime errors.
+* **File I/O** — reading and writing structured data.
+* **Basic GUI programming** — using Java Swing for simple interfaces.
+* **Problem decomposition** — breaking complex tasks into manageable components.
 
-* **Strong foundation in Java programming** — syntax, control structures, object-oriented principles.
-* **Algorithmic problem-solving skills** — sorting, searching, recursion, and data structure manipulation.
-* **Experience with core data structures** — arrays, stacks, queues, linked lists, trees, and graphs.
-* **Software design practices** — modular code, encapsulation, and interface/abstract class design.
-* **Error handling and robustness** — exception handling and input validation.
-* **File I/O** — reading and writing structured and unstructured data.
-* **Basic GUI development** — building interactive programs using Java Swing.
-* **Collaboration readiness** — following structured assignments, naming conventions, and documentation standards.
+---
 
 ## How to Run
 
-Projects are written in Java and can be compiled/run using the `javac` and `java` commands, or opened in an IDE like IntelliJ IDEA or Eclipse.
-
-Example:
+Compile and run using the Java compiler or your preferred IDE:
 
 ```bash
 javac Main.java
 java Main
 ```
 
+(Some labs may have differently named main classes.)
+
+---
+
 ## What to Look For
 
-* Correct Java syntax and use of object-oriented principles (classes, methods, encapsulation)
-* Application of algorithms, data structures, and control structures to solve problems
-* Clear, commented code reflecting AP-level computer science practices
+* Consistent use of object-oriented design principles.
+* Clean, readable code with comments explaining logic.
+* Progressive complexity from introductory exercises to full game simulations.
+
+---
+
+## Portfolio Note
+
+This project is part of my academic and professional coding portfolio.
+For more projects, visit my [GitHub profile](https://github.com/brynja-schultz).
+
+---
