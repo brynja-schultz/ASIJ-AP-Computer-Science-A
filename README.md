@@ -48,27 +48,6 @@ It served as my first formal programming course and laid the foundation for adva
 
 ---
 
-## How to Run
-
-Compile and run using the Java compiler or your preferred IDE:
-
-```bash
-javac Main.java
-java Main
-```
-
-(Some labs may have differently named main classes.)
-
----
-
-## What to Look For
-
-* Consistent use of object-oriented design principles.
-* Clean, readable code with comments explaining logic.
-* Progressive complexity from introductory exercises to full game simulations.
-
----
-
 ## Portfolio Note
 
 This project is part of my academic and professional coding portfolio.
